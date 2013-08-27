@@ -1,0 +1,12 @@
+
+<%- form_tag '/command', :method => 'get' do %>
+ <p>
+   Command:
+   <%= text_field_tag "command" %>
+ </p>
+ <p>
+   <%= submit_tag 'Test' %>
+ </p>
+<% end %>
+
+<%#= link_to "Index", url_for(:command, :index) %>

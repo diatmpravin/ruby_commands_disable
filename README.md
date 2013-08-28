@@ -3,7 +3,7 @@ ruby_commands_disable
 
 Steps to run application.
 
-1. git clonehttps://github.com/PravinKShepHertz/ruby_commands_disable.git
+1. git clonehttps://github.com/diatmpravin/ruby_commands_disable.git
 
 2. cd ruby_commands_disable
 
